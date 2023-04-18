@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="1167802066" file="C:\Users\mirac\OneDrive\Desktop\SolarSPEC\GitFolders\HPLCgui\HPLCApp.prj" location="C:\Users\mirac\OneDrive\Desktop\SolarSPEC\GitFolders\HPLCgui" name="HPLCApp" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="3393439883" file="C:\Users\mirac\OneDrive\Desktop\SolarSPEC\GitFolders\HPLCgui\HPLCApp.prj" location="C:\Users\mirac\OneDrive\Desktop\SolarSPEC\GitFolders\HPLCgui" name="HPLCApp" target="target.mlapps" target-name="Package App">
     <param.appname>HPLCApp</param.appname>
     <param.authnamewatermark>Mira Cuthill</param.authnamewatermark>
     <param.email />
@@ -8,7 +8,7 @@
     <param.icons />
     <param.summary>Application for the analysis of HPLC data files.</param.summary>
     <param.description>Import .csv and .xlsx data files of PDA, PL, Conductivity, Refractive Index, and Electrochemical data files. Observe various chromatogram and spectra cuts of data, align peaks of different detectors, and integrate peaks.</param.description>
-    <param.screenshot>C:\Users\mirac\AppData\Local\Temp\tp25a5f6be_c32b_41e2_8332_620af061de62.png</param.screenshot>
+    <param.screenshot>C:\Users\mirac\AppData\Local\Temp\tp55ec1730_7ecf_4fea_b403_87ef9a17fc4d.png</param.screenshot>
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
